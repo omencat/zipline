@@ -75,7 +75,7 @@ python-dateutil==2.8.1    # via -r etc/requirements.in, alembic, datashape, matp
 python-editor==1.0.4      # via alembic
 python-interface==1.6.0   # via -r etc/requirements.in
 pytz==2020.1              # via -r etc/requirements.in, babel, pandas, trading-calendars
-pyyaml==5.3.1             # via sphinx-autobuild
+pyyaml==5.4             # via sphinx-autobuild
 requests==2.24.0          # via -r etc/requirements.in, pandas-datareader, responses, sphinx
 responses==0.10.15        # via -r etc/requirements_dev.in
 scipy==1.5.2              # via -r etc/requirements.in, empyrical, statsmodels
