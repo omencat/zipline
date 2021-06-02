@@ -100,7 +100,7 @@ testfixtures==6.14.1      # via -r etc/requirements_dev.in
 toolz==0.10.0             # via -r etc/requirements.in, blaze, cytoolz, dask, odo, partd, trading-calendars
 tornado==6.0.4            # via livereload, sphinx-autobuild
 trading-calendars==1.11.8  # via -r etc/requirements.in
-urllib3==1.25.10          # via requests
+urllib3==1.26.5          # via requests
 watchdog==0.10.3          # via sphinx-autobuild
 werkzeug==1.0.1           # via flask
 zipp==3.1.0               # via importlib-metadata
