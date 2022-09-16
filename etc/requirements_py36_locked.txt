@@ -43,7 +43,7 @@ locket==0.2.0             # via partd
 logbook==1.5.3            # via -r etc/requirements.in
 lru-dict==1.1.6           # via -r etc/requirements.in
 lxml==4.6.3               # via pandas-datareader
-mako==1.1.3               # via alembic
+mako==1.2.2               # via alembic
 markupsafe==1.1.1         # via jinja2, mako
 matplotlib==3.3.0         # via -r etc/requirements_dev.in
 mccabe==0.6.1             # via flake8
